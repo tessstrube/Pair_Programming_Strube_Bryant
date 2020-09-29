@@ -1,0 +1,7 @@
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\bin\Debug\Mad_Libs_Game.exe.config
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\bin\Debug\Mad_Libs_Game.exe
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\bin\Debug\Mad_Libs_Game.pdb
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\obj\Debug\Mad_Libs_Game.csprojAssemblyReference.cache
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\obj\Debug\Mad_Libs_Game.csproj.CoreCompileInputs.cache
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\obj\Debug\Mad_Libs_Game.exe
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\obj\Debug\Mad_Libs_Game.pdb

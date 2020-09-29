@@ -1,0 +1,14 @@
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\bin\Debug\Mad_Libs_Game.exe.config
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\bin\Debug\Mad_Libs_Game.exe
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\bin\Debug\Mad_Libs_Game.pdb
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\obj\Debug\Pair_Programming_Strube_Bryant.csprojAssemblyReference.cache
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\obj\Debug\Pair_Programming_Strube_Bryant.csproj.CoreCompileInputs.cache
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\obj\Debug\Mad_Libs_Game.exe
+C:\Users\Tess\source\repos\Mad_Libs_Game\Mad_Libs_Game\obj\Debug\Mad_Libs_Game.pdb
+C:\ElevenFiftyProjects\Mad Libs Game\bin\Debug\Mad_Libs_Game.exe.config
+C:\ElevenFiftyProjects\Mad Libs Game\bin\Debug\Mad_Libs_Game.exe
+C:\ElevenFiftyProjects\Mad Libs Game\bin\Debug\Mad_Libs_Game.pdb
+C:\ElevenFiftyProjects\Mad Libs Game\obj\Debug\Pair_Programming_Strube_Bryant.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Mad Libs Game\obj\Debug\Pair_Programming_Strube_Bryant.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Mad Libs Game\obj\Debug\Mad_Libs_Game.exe
+C:\ElevenFiftyProjects\Mad Libs Game\obj\Debug\Mad_Libs_Game.pdb
